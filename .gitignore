@@ -115,3 +115,6 @@ dist
 
 # Keep environment secret
 .env
+
+# Code Workspace
+*.code-workspace
