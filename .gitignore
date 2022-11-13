@@ -118,3 +118,5 @@ dist
 
 # Code Workspace
 *.code-workspace
+# Local Netlify folder
+.netlify
